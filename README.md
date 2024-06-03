@@ -12,10 +12,10 @@ Still working on :
     - [ ] Account Authentication
     - [x] MacOS
     - [ ] Virtual Machines
-    - [ ] DFP Terms
+    - [ ] Counter Malign Influence Terms
     - [ ] Course Start
     - [ ] Course End
-    - [ ] DFP Capstone
+    - [ ] Counter Malign Influence Capstone
     - [ ] VPN
     - [ ] Encryption
     - [ ] Windows Hardening
@@ -30,7 +30,7 @@ Still working on :
 1. Terminal Option (Recommended): 
 
 ```BASH
-git clone https://git.irregularchat.com/TNGDEV/poi-dfp.git
+git clone https://github.com/irregularchat/Counter-Malign-Influence-POI.git
 ```
 
 
