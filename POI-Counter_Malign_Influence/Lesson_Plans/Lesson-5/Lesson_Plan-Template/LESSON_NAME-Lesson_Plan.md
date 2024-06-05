@@ -174,9 +174,6 @@ Lesson Material, Ammo, Expendable, etc.
 | y              |             | 5            | Apply                          |
 | y              |             | 3            | Assessment / Check On Learning |
 |                |             |              |                                |
-| END            | 0           | 44           | 0.88                           |
-<!-- TBLFM: @>$3=sum(@I..@-3) -->
-<!-- TBLFM: @>$4=(@>$3/50) -->
 
 ---
 ## SECTION 2: LESSON INTRODUCTION
