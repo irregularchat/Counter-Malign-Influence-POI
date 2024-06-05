@@ -1,6 +1,6 @@
 | Ordered | Objective Title                   | EST Total Min | Mode of Delivery          |
 | ------- | --------------------------------- | ------------- | ------------------------- |
-| 0       | Course Start                      | 45            | Instruction (Resident)    |
+| 0       | Course Start                      | 50            | Instruction (Resident)    |
 | 1       | MacOS                             | 30            | Instruction (Resident)    |
 | 2       | Identity and Signature Management | 130           | Guest Instructor          |
 | 2b      | Alternate Stuff, Account Hardening        | 45            | Instruction (Resident)    |

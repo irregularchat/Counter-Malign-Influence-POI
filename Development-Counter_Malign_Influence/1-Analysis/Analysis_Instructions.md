@@ -4,12 +4,26 @@ Use the Developer Workbook when possible from the Download [Link](https://u.pclo
 
 # Problem Statement
 (TP 350-70-14, Par  3-7)
-Write a problem statement to specify the performance gap.  For example: "The problem is… Military Intelligence students are not completing status reports to include all elements specified by the standard."
+"Government employees are tasked with operating in the information environment but lack the skills and knowledge to identify and counter misinformation and disinformation campaigns effectively. This includes challenges in recognizing propaganda, deepfakes, and malign influence. The performance gap is evident in the employees' inability to:
+Accurately discern between reliable information and misinformation.
+Detect and respond to disinformation campaigns.
+Identify and mitigate the impact of propaganda and malign influence.
+Recognize and counter deepfakes and other advanced manipulative media tactics.
+This deficiency hampers their ability to perform their duties effectively in the information environment, leading to potential risks and vulnerabilities in their operations.
 
+
+"
 # Scope of the Performance Problem:
 (TP 350-70-14, Par 3-9)
-Identify the extent (isolated or widespread), gravity (seriousness of the problem concerning safety, environmental, or security aspects), and impact (mission consequences of a sub-standard individual or unit performance) of the problem.
+"This issue is widespread among government employees who are required to operate in the information environment. The gravity of the problem is significant, with serious implications for national security, public trust, and operational effectiveness. The inability to effectively identify and counter misinformation and disinformation can lead to:
+Increased vulnerability to foreign and domestic malign influence operations.
+Compromised decision-making processes based on inaccurate or manipulated information.
+Erosion of public trust in government communications and operations.
+Potential for widespread dissemination of harmful misinformation and propaganda, undermining democratic processes and national security.
+This performance gap affects the overall mission readiness and effectiveness of government employees tasked with maintaining the integrity of information in the public sphere.
 
+
+"
 # Needs Analysis (DOTmLPF-P)
 (TP 350-70-14, Par 3-3, Table 3-1)
 Perform a DOTMLPF Analysis on your problem statement:  
@@ -25,8 +39,13 @@ Complete a Topic Analysis to identify topical areas (i.e., Major/Minor Topics) t
 
 # Task Analysis / Total Tasks Inventory (TTI)
 
-Create a total task inventory (TTI) (5 tasks). Ensure task titles are written according to business rules, using action verbs aligned with the learning domain and level per TP 350-70-1 Appendix E.
-
+0001	Identifying Misinformation and Disinformation
+0002	Countering Misinformation and Disinformation
+0003	Identifying Rival Influence
+0004	Mitigating Rival Influence
+0005	Creating AI Generated Content
+0006	Recognize AI Generated Content
+0007	Reporting Malign Influence
 # Difficulty-Importance-Frequency (DIF):
 
 Perform a Difficulty-Importance-Frequency (DIF) Model analysis on the tasks listed in the TTI to identify potential critical tasks. Update total task inventory (TTI) with potential critical tasks to present to CTSSB (5 tasks).
