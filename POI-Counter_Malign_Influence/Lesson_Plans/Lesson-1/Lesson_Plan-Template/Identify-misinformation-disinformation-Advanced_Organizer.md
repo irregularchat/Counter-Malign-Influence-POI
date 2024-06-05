@@ -12,7 +12,7 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 ## Quick Information
 | Title                       | Comment                                     |
 | --------------------------- | ------------------------------------------- |
-| Intended Audience           | Government employees                        |
+| Intended Audience           | Officials working in the information environment                        |
 | Learning Domain             | Cognitive                                   |
 | Training Resources Required | Computer, internet access, information databases, analytical software, reporting templates, deception detection checklists |
 
