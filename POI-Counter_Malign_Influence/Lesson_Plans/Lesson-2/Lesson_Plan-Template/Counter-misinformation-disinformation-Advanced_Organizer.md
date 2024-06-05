@@ -12,7 +12,7 @@ Successfully counter identified misinformation and disinformation, ensuring the 
 ## Quick Information
 | Title                       | Comment                                     |
 | --------------------------- | ------------------------------------------- |
-| Intended Audience           | Foreign military officials working in the information environment |
+| Intended Audience           | Officials working in the information environment |
 | Learning Domain             | Cognitive                                   |
 | Training Resources Required | Computer, internet access, strategic planning tools, communication platforms, monitoring software |
 
