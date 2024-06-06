@@ -18,3 +18,4 @@ Modes of Delivery:
 -  Distributed (Synchronos)
 -  Distributed (Asynchronos)
 -  Blended
+- Exchange (Partner)
