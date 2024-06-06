@@ -9,18 +9,7 @@
 | 6       | Reporting Malign Influence        | 70            | Instruction (Resident)    | 3   |
 | END     | Capstone                          | 50            | Assessment                | 4   |
 | END     | Closing                           | 20            | -                         | 4   |
-| END     | TOTAL TIME                        | 750           | 15.0                      | -   |
-<!-- TBLFM: @>$3=sum(@I..@-1) -->
-<!-- TBLFM: @>$4=(@>$3/50) -->
-### NOTE: 
-The formulas require an additional plugin: [Advanced Tables](source https://github.com/tgrosinger/md-advanced-tables/blob/main/docs/formulas.md)
-Below are the formulas with comments
-```md
-// Formula to get total minutes in the third column
-<!-- TBLFM: @>$3=sum(@I..@-1) -->
-// Formula to get total academic hours (50 minutes) based on the total minutes 
-<!-- TBLFM: @>$4=(@>$3/50) -->
-```
+
 
 ## Referenced Terms
 Modes of Delivery:
