@@ -305,6 +305,115 @@ Perform a Difficulty-Importance-Frequency (DIF) Model analysis on the tasks list
    - **Resources, Materiels**: Access to follow-up tools and systems.
    - **Step Notes / Cues**: Verify that the report was received and acted upon.
 
+---
+
+### Exchange (Partner) Sections
+
+#### Objective: Countering Misinformation and Disinformation
+
+- **Task Condition Statement**: In collaboration with a partner organization, participants must develop strategies to counter misinformation and disinformation based on previously learned concepts.
+- **Task Standard Statement**: The partner organization must successfully implement strategies that reduce the spread of misinformation and disinformation by 80% within their operational context.
+
+**Performance Steps**:
+
+1. **Collaborate with Partner Organization to Develop a Counter-Strategy Plan**
+   - **References**: Strategic Communication Guidelines
+   - **Supporting and Supported Individual Tasks**: N/A
+   - **Environmental and Safety**: Ensure secure communication channels.
+   - **Knowledge**: Understanding of strategic communication, knowledge of misinformation tactics.
+   - **Skills**: Strategic planning, analytical skills.
+   - **Resources, Materials**: Access to strategic planning tools and resources.
+   - **Step Notes / Cues**: Align strategy with organizational goals and resources.
+
+2. **Guide Partner Organization in Implementing Counter-Disinformation Measures**
+   - **References**: Counter-Disinformation Techniques
+   - **Supporting and Supported Individual Tasks**: N/A
+   - **Environmental and Safety**: N/A
+   - **Knowledge**: Techniques for countering disinformation, understanding of information dissemination channels.
+   - **Skills**: Communication skills, execution skills.
+   - **Resources, Materials**: Access to communication platforms and monitoring tools.
+   - **Step Notes / Cues**: Monitor the effectiveness of measures and adjust as needed.
+
+3. **Evaluate and Report Effectiveness of Partner's Implementation**
+   - **References**: Evaluation Metrics and Reporting Guidelines
+   - **Supporting and Supported Individual Tasks**: N/A
+   - **Environmental and Safety**: N/A
+   - **Knowledge**: Understanding of evaluation metrics, knowledge of reporting procedures.
+   - **Skills**: Analytical skills, reporting skills.
+   - **Resources, Materials**: Access to evaluation tools and reporting systems.
+   - **Step Notes / Cues**: Document successes and areas for improvement.
+
+#### Objective: Mitigating Rival Influence
+
+- **Task Condition Statement**: Participants must work with the partner organization to identify and mitigate rival influence activities using the learned techniques.
+- **Task Standard Statement**: The partner organization must effectively mitigate identified rival influences, reducing their impact by at least 70%.
+
+**Performance Steps**:
+
+1. **Collaborate with Partner Organization to Develop a Mitigation Plan**
+   - **References**: Mitigation Planning Guidelines
+   - **Supporting and Supported Individual Tasks**: N/A
+   - **Environmental and Safety**: N/A
+   - **Knowledge**: Understanding of mitigation strategies and techniques.
+   - **Skills**: Strategic planning, analytical skills.
+   - **Resources, Materials**: Access to planning tools and resources.
+   - **Step Notes / Cues**: Align the plan with organizational goals.
+
+2. **Guide Partner Organization in Implementing Mitigation Measures**
+   - **References**: Mitigation Techniques
+   - **Supporting and Supported Individual Tasks**: N/A
+   - **Environmental and Safety**: Ensure safe execution of measures.
+   - **Knowledge**: Knowledge of influence mitigation techniques.
+   - **Skills**: Execution skills, communication skills.
+   - **Resources, Materials**: Tools and resources for implementing measures.
+   - **Step Notes / Cues**: Monitor the implementation process.
+
+3. **Evaluate and Report Effectiveness of Partner's Mitigation Efforts**
+   - **References**: Evaluation Metrics and Reporting Guidelines
+   - **Supporting and Supported Individual Tasks**: N/A
+   - **Environmental and Safety**: N/A
+   - **Knowledge**: Understanding of evaluation metrics.
+   - **Skills**: Analytical skills, reporting skills.
+   - **Resources, Materials**: Access to evaluation tools and reporting systems.
+   - **Step Notes / Cues**: Document the impact and effectiveness of mitigation measures.
+
+#### Objective: Reporting Malign Influence
+
+- **Task Condition Statement**: Participants must work with the partner organization to establish and implement protocols for reporting instances of malign influence.
+- **Task Standard Statement**: The partner organization must accurately and promptly report malign influence following established protocols, ensuring all relevant details are documented and acted upon.
+
+**Performance Steps**:
+
+1. **Collaborate with Partner Organization to Document Instances of Malign Influence**
+   - **References**: Documentation Guidelines
+   - **Supporting and Supported Individual Tasks**: N/A
+   - **Environmental and Safety**: Ensure secure documentation processes.
+   - **Knowledge**: Understanding of documentation standards and requirements.
+   - **Skills**: Documentation skills, attention to detail.
+   - **Resources, Materials**: Access to documentation tools.
+   - **Step Notes / Cues**: Record all relevant details accurately.
+
+2. **Guide Partner Organization in Preparing and Submitting Reports**
+   - **References**: Reporting Guidelines
+   - **Supporting and Supported Individual Tasks**: N/A
+   - **Environmental and Safety**: Ensure secure transmission of reports.
+   - **Knowledge**: Knowledge of reporting formats and protocols.
+   - **Skills**: Reporting skills, attention to detail.
+   - **Resources, Materials**: Access to reporting tools and platforms.
+   - **Step Notes / Cues**: Ensure clarity and accuracy in reporting.
+
+3. **Evaluate and Follow Up on Submitted Reports with Partner Organization**
+   - **References**: Follow-Up Procedures
+   - **Supporting and Supported Individual Tasks**: N/A
+   - **Environmental and Safety**: N/A
+   - **Knowledge**: Understanding of follow-up procedures and protocols.
+   - **Skills**: Communication skills, attention to detail.
+   - **Resources, Materials**: Access to follow-up tools and systems.
+   - **Step Notes / Cues**: Verify that the report was received and acted upon.
+
+
+---
+
 ### Skills and Knowledge Matrix
 
 | Task                  | Knowledge                        | Skills                       |
