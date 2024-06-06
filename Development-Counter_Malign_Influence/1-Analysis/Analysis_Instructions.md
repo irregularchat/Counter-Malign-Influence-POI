@@ -101,39 +101,6 @@ Perform a Difficulty-Importance-Frequency (DIF) Model analysis on the tasks list
    - **Resources, Materiels**: Access to trusted databases and information repositories.
    - **Step Notes / Cues**: Look for corroborative evidence from multiple reliable sources.
 
-#### Task 0002: Counter Misinformation and Disinformation
-
-- **Task Condition Statement**: In an environment where misinformation and disinformation campaigns are identified, government employees must develop and implement strategies to counter these efforts.
-- **Task Standard Statement**: Employees must successfully counter identified misinformation and disinformation, ensuring the dissemination of accurate information and reducing the spread of false information by 80%.
-
-**Performance Steps**:
-
-1. **Develop a Counter-Strategy Plan**
-   - **References**: Strategic Communication Guidelines
-   - **Supporting and Supported Individual Tasks**: N/A
-   - **Environmental and Safety**: Ensure secure communication channels.
-   - **Knowledge**: Understanding of strategic communication, knowledge of misinformation tactics.
-   - **Skills**: Strategic planning, analytical skills.
-   - **Resources, Materiels**: Access to strategic planning tools and resources.
-   - **Step Notes / Cues**: Align strategy with organizational goals and resources.
-
-2. **Implement Counter-Disinformation Measures**
-   - **References**: Counter-Disinformation Techniques
-   - **Supporting and Supported Individual Tasks**: N/A
-   - **Environmental and Safety**: N/A
-   - **Knowledge**: Techniques for countering disinformation, understanding of information dissemination channels.
-   - **Skills**: Communication skills, execution skills.
-   - **Resources, Materiels**: Access to communication platforms and monitoring tools.
-   - **Step Notes / Cues**: Monitor the effectiveness of measures and adjust as needed.
-
-3. **Evaluate and Report Effectiveness**
-   - **References**: Evaluation Metrics and Reporting Guidelines
-   - **Supporting and Supported Individual Tasks**: N/A
-   - **Environmental and Safety**: N/A
-   - **Knowledge**: Understanding of evaluation metrics, knowledge of reporting procedures.
-   - **Skills**: Analytical skills, reporting skills.
-   - **Resources, Materiels**: Access to evaluation tools and reporting systems.
-   - **Step Notes / Cues**: Document successes and areas for improvement.
 
 #### Task 0003: Identify Rival Influence
 
@@ -169,39 +136,6 @@ Perform a Difficulty-Importance-Frequency (DIF) Model analysis on the tasks list
    - **Resources, Materiels**: Access to reporting tools and platforms.
    - **Step Notes / Cues**: Ensure clarity and accuracy in reporting.
 
-#### Task 0004: Mitigate Rival Influence
-
-- **Task Condition Statement**: In an environment where rival influence activities have been identified, government employees must take steps to mitigate these influences.
-- **Task Standard Statement**: Employees must effectively mitigate identified rival influences, reducing their impact by at least 70%.
-
-**Performance Steps**:
-
-1. **Develop a Mitigation Plan**
-   - **References**: Mitigation Planning Guidelines
-   - **Supporting and Supported Individual Tasks**: N/A
-   - **Environmental and Safety**: N/A
-   - **Knowledge**: Understanding of mitigation strategies and techniques.
-   - **Skills**: Strategic planning, analytical skills.
-   - **Resources, Materiels**: Access to planning tools and resources.
-   - **Step Notes / Cues**: Align the plan with organizational goals.
-
-2. **Implement Mitigation Measures**
-   - **References**: Mitigation Techniques
-   - **Supporting and Supported Individual Tasks**: N/A
-   - **Environmental and Safety**: Ensure safe execution of measures.
-   - **Knowledge**: Knowledge of influence mitigation techniques.
-   - **Skills**: Execution skills, communication skills.
-   - **Resources, Materiels**: Tools and resources for implementing measures.
-   - **Step Notes / Cues**: Monitor the implementation process.
-
-3. **Evaluate and Report Effectiveness**
-   - **References**: Evaluation Metrics and Reporting Guidelines
-   - **Supporting and Supported Individual Tasks**: N/A
-   - **Environmental and Safety**: N/A
-   - **Knowledge**: Understanding of evaluation metrics.
-   - **Skills**: Analytical skills, reporting skills.
-   - **Resources, Materiels**: Access to evaluation tools and reporting systems.
-   - **Step Notes / Cues**: Document the impact and effectiveness of mitigation measures.
 
 #### Task 0005: Create AI Generated Content
 
@@ -271,41 +205,7 @@ Perform a Difficulty-Importance-Frequency (DIF) Model analysis on the tasks list
    - **Resources, Materiels**: Access to verified content databases.
    - **Step Notes / Cues**: Compare suspect content with verified examples.
 
-#### Task 0007: Report Malign Influence
 
-- **Task Condition Statement**: In a secure environment, government employees must report instances of malign influence.
-- **Task Standard Statement**: Employees must report malign influence accurately and promptly, following established protocols.
-
-**Performance Steps**:
-
-1. **Document Instances of Malign Influence**
-   - **References**: Documentation Guidelines
-   - **Supporting and Supported Individual Tasks**: N/A
-   - **Environmental and Safety**: Ensure secure documentation processes.
-   - **Knowledge**: Understanding of documentation standards and requirements.
-   - **Skills**: Documentation skills, attention to detail.
-   - **Resources, Materiels**: Access to documentation tools.
-   - **Step Notes / Cues**: Record all relevant details accurately.
-
-2. **Prepare and Submit Reports**
-   - **References**: Reporting Guidelines
-   - **Supporting and Supported Individual Tasks**: N/A
-   - **Environmental and Safety**: Ensure secure transmission of reports.
-   - **Knowledge**: Knowledge of reporting formats and protocols.
-   - **Skills**: Reporting skills, attention to detail.
-   - **Resources, Materiels**: Access to reporting tools and platforms.
-   - **Step Notes / Cues**: Ensure clarity and accuracy in reporting.
-
-3. **Follow Up on Submitted Reports**
-   - **References**: Follow-Up Procedures
-   - **Supporting and Supported Individual Tasks**: N/A
-   - **Environmental and Safety**: N/A
-   - **Knowledge**: Understanding of follow-up procedures and protocols.
-   - **Skills**: Communication skills, attention to detail.
-   - **Resources, Materiels**: Access to follow-up tools and systems.
-   - **Step Notes / Cues**: Verify that the report was received and acted upon.
-
----
 
 ### Exchange (Partner) Sections
 
@@ -414,6 +314,7 @@ Perform a Difficulty-Importance-Frequency (DIF) Model analysis on the tasks list
 
 ---
 
+
 ### Skills and Knowledge Matrix
 
 | Task                  | Knowledge                        | Skills                       |
@@ -445,23 +346,6 @@ Perform a Difficulty-Importance-Frequency (DIF) Model analysis on the tasks list
    - **Performance Measures**: Process
    - **Standard**: Go
 
-#### Task 0002: Counter Misinformation and Disinformation
-
-1. **Develop a Counter-Strategy Plan**
-   - **Sub-steps**: Yes
-   - **Performance Measures**: Product
-   - **Standard**: Go
-
-2. **Implement Counter-Disinformation Measures**
-   - **Sub-steps**: Yes
-   - **Performance Measures**: Process
-   - **Standard**: Go
-
-3. **Evaluate and Report Effectiveness**
-   - **Sub-steps**: Yes
-   - **Performance Measures**: Process
-   - **Standard**: Go
-
 #### Task 0003: Identify Rival Influence
 
 1. **Collect and Review Intelligence Reports**
@@ -479,22 +363,6 @@ Perform a Difficulty-Importance-Frequency (DIF) Model analysis on the tasks list
    - **Performance Measures**: Product
    - **Standard**: Go
 
-#### Task 0004: Mitigate Rival Influence
-
-1. **Develop a Mitigation Plan**
-   - **Sub-steps**: Yes
-   - **Performance Measures**: Product
-   - **Standard**: Go
-
-2. **Implement Mitigation Measures**
-   - **Sub-steps**: Yes
-   - **Performance Measures**: Process
-   - **Standard**: Go
-
-3. **Evaluate and Report Effectiveness**
-   - **Sub-steps**: Yes
-   - **Performance Measures**: Process
-   - **Standard**: Go
 
 #### Task 0005: Create AI Generated Content
 
@@ -530,22 +398,6 @@ Perform a Difficulty-Importance-Frequency (DIF) Model analysis on the tasks list
    - **Performance Measures**: Process
    - **Standard**: Go
 
-#### Task 0007: Report Malign Influence
-
-1. **Document Instances of Malign Influence**
-   - **Sub-steps**: Yes
-   - **Performance Measures**: Process
-   - **Standard**: Go
-
-2. **Prepare and Submit Reports**
-   - **Sub-steps**: Yes
-   - **Performance Measures**: Product
-   - **Standard**: Go
-
-3. **Follow Up on Submitted Reports**
-   - **Sub-steps**: Yes
-   - **Performance Measures**: Process
-   - **Standard**: Go
 
 ## Target Audience Analysis:
 
