@@ -1,13 +1,13 @@
-# Advanced Organizer: Generating Content Using AI
+# Advanced Organizer: Recognizing AI-Generated Content
 
 ## Learning Objective
-### **Action:** Generate Content Using AI.
+### **Action:** Recognize AI-Generated Content.
 
 ### **Conditions:** 
-Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and AI content generation tools.
+Given an environment that allows the students to engage one another and the cadre openly, handouts, visual aids, research capabilities, and AI content detection tools.
 
 ### **Standards:** 
-Successfully create AI-generated content that meets specified quality standards and is relevant to the given prompts.
+Accurately identify AI-generated content by detecting inconsistencies and manipulation artifacts, ensuring that at least 90% of assessments are correct and report findings to the relevant authorities.
 
 ---
 
@@ -16,66 +16,75 @@ Successfully create AI-generated content that meets specified quality standards 
 | --------------------------- | ------------------------------------------- |
 | Intended Audience           | Government employees                        |
 | Learning Domain             | Cognitive                                   |
-| Training Resources Required | Computer, internet access, AI content generation tools, example prompts, handouts |
+| Training Resources Required | Computer, internet access, AI content detection tools, example images, handouts, visual aids |
 
 ---
 
 # Performance Steps
 
-1. Select appropriate AI tools.
-2. Input data and configure settings.
-3. Generate and review content.
-4. Refine and edit the generated content.
+1. Pay attention to specific visual cues (e.g., hands, limbs, face).
+2. Analyze structural consistency in buildings and scenes.
+3. Verify textual content for unnatural language patterns.
+4. Check audio content for consistency and natural flow.
 
 ---
 
 # Lesson ELM Steps
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 4 min | Concrete Experience  | Generating AI Content         |
-|      |                      |                               |
-1. **Activity**: Have one student come to the front and receive a vague note from the class on what to generate using AI.
-2. **Challenge**: Student attempts to generate content based on the vague prompt, likely experiencing frustration due to lack of specificity.
+| Time  | ELM Phase            | Comment                                   |
+| ----- | -------------------- | ----------------------------------------- |
+| 10 min | Concrete Experience  | Spotting Differences                      |
+|       |                      |                                           |
+1. **Activity**: Display two sets of images, one original and one altered, and ask students to identify differences.
+2. **Observation**: Students write down any differences they notice.
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 4 min | Publish and Process  | Discussion on AI Content Generation |
-|      |                      |                               |
-1. **Question**: Ask the student, “What was challenging about generating content with the given instructions?”
+| Time  | ELM Phase            | Comment                                   |
+| ----- | -------------------- | ----------------------------------------- |
+| 4 min | Publish and Process  | Discussion on Observations                |
+|       |                      |                                           |
+1. **Question**: Ask students to share the differences they observed.
 2. **Introduction**: Introduce the learning objectives.
-3. **Discussion**: Discuss the importance of clear and specific prompts when generating AI content.
-4. **Sharing**: Ask students to share their experiences with AI tools, if any.
+3. **Discussion**: Discuss the importance of detailed observation in detecting AI-generated content.
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 6 min | Generalize New Information | Best Practices for AI Content Generation |
-|      |                      |                               |
-1. **Visual Aid**: Go over a handout on best practices for generating AI content.
-2. **Comparison**: Discuss the characteristics of good vs. poor prompts.
-3. **Techniques**: Introduce techniques for refining AI prompts and configuring settings.
-4. **Demonstration**: Demonstrate how to use an AI tool to generate content with a specific, well-crafted prompt.
+| Time  | ELM Phase                 | Comment                                   |
+| ----- | ------------------------- | ----------------------------------------- |
+| 20 min | Generalize New Information | Techniques for Detecting AI Content       |
+|       |                           |                                           |
+1. **Visual Aid**: Use handouts and visual aids to illustrate common signs of AI-generated content.
+2. **Comparison**: Compare characteristics of authentic vs. AI-generated content.
+3. **Techniques**: Introduce techniques for detecting AI manipulations (e.g., analyzing hands, facial features, and structural consistency).
+4. **Demonstration**: Demonstrate using an AI content detection tool to identify manipulated content.
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 6 min | Develop              | Applying Best Practices       |
-|      |                      |                               |
-1. **Application**: Ask students how they will apply these best practices in their roles.
-2. **Practice**: Have students create their own prompts and generate content using AI tools, focusing on clarity and specificity.
+| Time  | ELM Phase            | Comment                                   |
+| ----- | -------------------- | ----------------------------------------- |
+| 20 min | Develop              | Applying Detection Techniques             |
+|       |                      |                                           |
+1. **Application**: Ask students how they will apply these techniques in their roles.
+2. **Practice**: Have students practice detecting AI-generated content using example images and tools.
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 10 min | Apply                | Practical Exercise            |
-|      |                      |                               |
-1. **Exercise**: Ask students to generate a piece of content using the AI tools and prompts they created.
-2. **Review**: Have students present their generated content and discuss the effectiveness of their prompts and any challenges faced.
-3. **Feedback**: Provide constructive feedback on their prompts and generated content.
+| Time  | ELM Phase            | Comment                                   |
+| ----- | -------------------- | ----------------------------------------- |
+| 30 min | Apply                | Practical Exercise                        |
+|       |                      |                                           |
+1. **Exercise**: Provide students with various media types (images, text, audio) and ask them to identify AI-generated content.
+2. **Review**: Students present their findings and discuss the effectiveness of their detection methods.
+3. **Feedback**: Provide constructive feedback on their observations and analysis.
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 4 min | Check On Learning    | Summary and Feedback          |
-|      |                      |                               |
+| Time  | ELM Phase            | Comment                                   |
+| ----- | -------------------- | ----------------------------------------- |
+| 6 min | Check On Learning    | Summary and Feedback                      |
+|       |                      |                                           |
 1. **Summary**: Recap the key points of the lesson.
 2. **Q&A**: Answer any remaining questions from students.
-3. **Reflection**: Discuss how the activity demonstrated the importance of specificity in AI content generation.
-4. **Future Application**: Encourage students to apply these techniques in their professional tasks involving AI tools.
+3. **Reflection**: Discuss how the activity demonstrated the importance of attention to detail in recognizing AI-generated content.
+4. **Future Application**: Encourage students to apply these techniques in their professional tasks involving AI detection.
+
+---
+
+# Lesson References
+
+- [Media Lab at MIT on Detecting Fakes](https://www.media.mit.edu/projects/detect-fakes/overview/)
+- [Detect Fakes with Kellogg's online tool](https://detectfakes.kellogg.northwestern.edu/)
+- [CISA Contextualizing Deepfake Threats to Organizations](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF)
+- [DARPA: Deepfake Defense Tech Ready for Commercialization, Transition](https://www.darpa.mil/news-events/2024-03-14#:~:text=Through%20the%20Semantic%20Forensics%20)
+- [Scribbr AI Detector](https://www.scribbr.com/ai-detector/)
