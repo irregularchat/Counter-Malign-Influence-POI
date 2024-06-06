@@ -55,12 +55,12 @@ Protocols for reporting malign influence
 ## Task Analysis / Total Tasks Inventory (TTI)
 
 0001	Identifying Misinformation and Disinformation
-0002	Countering Misinformation and Disinformation
+0002	Countering Misinformation and Disinformation (Exchange)
 0003	Identifying Rival Influence
-0004	Mitigating Rival Influence
-0005	Creating AI Generated Content
+0004	Mitigating Rival Influence (Exchange)
+0005	Creating AI Generated Content (Minimal Training with Training Aid)
 0006	Recognize AI Generated Content
-0007	Reporting Malign Influence
+0007	Reporting Malign Influence (Exchange)
 ## Difficulty-Importance-Frequency (DIF):
 
 Perform a Difficulty-Importance-Frequency (DIF) Model analysis on the tasks listed in the TTI to identify potential critical tasks. Update total task inventory (TTI) with potential critical tasks to present to CTSSB (5 tasks).
